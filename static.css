@@ -1,0 +1,803 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#pro {
+    background-image: url("https://www.apple.com/v/home/bv/images/heroes/iphone-16-pro/hero_iphone16pro_avail__fnf0f9x70jiy_small_2x.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+
+#dev h1 {
+    color: white;
+    text-align: center;
+}
+
+#dev p {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+button {
+    margin-left: 20px;
+    border-radius: 100px !important;
+    padding: 10px;
+}
+
+#prol {
+    background-image: url("https://www.apple.com/v/home/bv/images/heroes/iphone-16-pro/hero_iphone16pro_avail__fnf0f9x70jiy_largetall_2x.jpg");
+    width: 100%;
+    height: 90vh;
+    background-size: 200vw 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    padding-top: 50px;
+    margin-bottom: 10px;
+}
+
+#bas {
+    background-image: url("https://www.apple.com/v/home/bv/images/heroes/iphone-16/hero_iphone16_avail__euwzls69btea_small_2x.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+
+
+}
+
+#dev a {
+    text-decoration: none !important;
+}
+
+#basl {
+    background-image: url("https://www.apple.com/v/home/bv/images/heroes/iphone-16/hero_iphone16_avail__euwzls69btea_largetall_2x.jpg");
+    width: 100%;
+    height: 90vh;
+    background-size: 200vw 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    margin-bottom: 10px;
+
+}
+
+#air {
+    width: 100%;
+    height: 70vh;
+    background-size: 85vw 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+    margin-bottom: 20px;
+    background-image: url("https://www.apple.com/v/home/bv/images/promos/ipad-air/promo_ipadair_ai__3fv1eitzqv6y_large_2x.jpg");
+
+}
+
+#airs {
+    background-image: url("https://www.apple.com/v/home/bv/images/promos/ipad-air/promo_ipadair_ai__3fv1eitzqv6y_small_2x.jpg");
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+
+}
+
+
+.gra {
+    background: linear-gradient(94deg, #0090F7, #BA62FC, #F2416B, #F55600);
+    color: transparent;
+    background-clip: text;
+    font-size: 20px;
+
+}
+
+.im {
+    text-align: center;
+    width: 150px;
+    padding-top: 30px;
+}
+
+.imc {
+    height: 60px;
+}
+
+#sp {
+    padding-top: 340px;
+}
+
+#airpod {
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+    margin-left: 0px;
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/airpods-pro-2/promo_airpods_pro_2_avail__vkitqi3okwie_large_2x.jpg");
+
+}
+
+#airpods {
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/airpods-pro-2/promo_airpods_pro_2_avail__vkitqi3okwie_small_2x.jpg");
+
+}
+
+#watch {
+    width: 100%;
+    height: 70vh;
+    background-size: 80vw 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/apple-watch-series-10/promo_apple_watch_series_10_avail_lte__c70y29goir42_large_2x.jpg");
+
+
+}
+
+#watchs {
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/apple-watch-series-10/promo_apple_watch_series_10_avail_lte__c70y29goir42_small_2x.jpg");
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+
+}
+
+.p {
+    color: black !important;
+    text-align: center;
+    font-size: 24px !important;
+    font-family: "Helvetica Neue" !important;
+}
+
+#mac {
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/macbook-air-m3/promo_macbook_air_m3__e43jegok3wuq_large_2x.jpg");
+    background-color: #f5f5f7;
+
+}
+
+#mac h1 {
+    color: black !important;
+    text-align: center;
+}
+
+#macs {
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/macbook-air-m3/promo_macbook_air_m3__e43jegok3wuq_small_2x.jpg");
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+#macs h1 {
+    color: black !important;
+    text-align: center;
+}
+
+
+#tra {
+    width: 100%;
+    height: 70vh;
+    background-size: 80vw 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_large_2x.jpg");
+    background-color: #f5f5f7;
+
+}
+
+#tras {
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_small_2x.jpg");
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+#car {
+    width: 100%;
+    height: 70vh;
+    background-size: 80vw 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    background-image: url("https://www.apple.com/v/home/bw/images/promos/apple-card/promo_apple_card__5cm7draujpey_large_2x.jpg");
+    background-color: #f5f5f7;
+
+}
+
+.carousel-inner {
+    padding: 1em;
+}
+
+.card {
+    margin: 0 0.5em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    height: 500px;
+}
+
+@media (min-width: 768px) {
+    .carousel-item {
+        margin-right: 0;
+        flex: 0 0 33.333333%;
+        display: block;
+    }
+
+    .carousel-inner {
+        display: flex;
+    }
+}
+
+.card .img-wrapper {
+    max-width: 100%;
+    height: 13em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img {
+    max-height: 100%;
+}
+
+@media (max-width: 767px) {
+    .card .img-wrapper {
+        height: 17em;
+    }
+}
+
+.carousel-item:not(.active)::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7);
+    /* White sheer shield */
+    z-index: 2;
+}
+
+.carousel-indicators {
+    position: relative;
+    top: 20px;
+    left: 40%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    background-color: #888;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.carousel-indicators .active {
+    background-color: #000;
+}
+
+.carousel {
+    overflow: hidden;
+    /* Prevent scrollbars during transitions */
+}
+
+.carousel-inner {
+    transition: transform 0.6s ease-in-out;
+    /* Smooth transition */
+}
+
+.marquee {
+    position: relative;
+    width: 100vw;
+    max-width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+    overflow-x: hidden;
+}
+
+.track {
+    position: absolute;
+    white-space: nowrap;
+    will-change: transform;
+    animation: marquee 40s linear infinite;
+}
+
+@keyframes marquee {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+#mrq img {
+    height: 230px;
+    width: 230px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 25px
+}
+
+.im1 {
+    background-image: url("https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/5b/b3/4a/5bb34a60-695c-a96f-75ec-8a957fc2a20b/45899847-e52c-44a1-9ce5-09aedebb7a78.png/834x472.jpg");
+
+    width: 470px;
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10px;
+    margin-right: 5px !important;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.im2 {
+    background-image: url("https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/3f/36/40/3f3640a9-d85e-0189-88f9-34fe9d4168f6/media-CO_JCL_0053-9615824-Artwork-iOS-319830.png/572x322.jpg");
+    width: 470px;
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-right: 5px !important;
+    z-index: 0;
+}
+
+.im3 {
+    background-color: rgba(0, 0, 0, 0.16);
+    width: 470px;
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-right: 5px !important;
+    text-align: center;
+
+}
+
+.im4 {
+    background-image: url("https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/bd/60/67/bd6067ae-64ac-04df-dc96-4757069c37dd/6610be22-3caa-493c-90b0-a8f73520c9bf.png/572x322.jpg");
+    width: 470px;
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-right: 5px !important;
+
+}
+
+.im5 {
+    background-image: url("https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/b7/52/00/b7520011-8ec1-f579-0d0c-c69203873d1e/e12fda86-52fb-4d7d-8017-260155a31696.png/572x322.jpg");
+    width: 470px;
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-right: 5px !important;
+}
+
+.im6 {
+    background-color: rgb(37, 68, 148);
+    width: 470px;
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 10px;
+    margin-right: 5px !important;
+}
+
+.mrim {
+    margin-top: 130px;
+    margin-left: 5px;
+    color: white;
+
+}
+
+.sp {
+    margin-top: 130px;
+    margin-left: 5px;
+    color: black !important;
+}
+
+.ap {
+    margin-top: 235px;
+    margin-left: 80px;
+    height: 18px;
+}
+
+.ap1 {
+    margin-top: 235px;
+    margin-right: 10px;
+    height: 20px;
+}
+
+.con {
+    position: relative;
+    overflow: hidden;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 280px;
+    background: rgba(0, 0, 0, 0);
+    transition: background 0.3s ease-in-out;
+    z-index: 1;
+}
+
+/* Darken the overlay on hover */
+.con:hover .overlay {
+    background: rgba(0, 0, 0, 0.3);
+
+}
+
+/* Button styling */
+.button {
+    display: none;
+    z-index: 4;
+    text-align: center;
+    background-color: #f5f4f2;
+    color: black;
+    border: none;
+    width: 100px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;
+    height: 40px;
+    left: 50%;
+    bottom: 40%;
+    padding: 5px;
+    font-weight: 300;
+    transform: translateX(-50%);
+    transition: transform 0.3s ease-in-out;
+    font-family: "Helvetica Neue", Sans-Serif;
+}
+
+/* Show the button on hover */
+.con:hover .button {
+    display: block;
+    transform: translateX(-50%) scale(1.1);
+    /* Slight zoom effect */
+}
+
+.button:hover {
+    background-color: white;
+
+}
+
+.tex {
+    color: white;
+    font-family: "Helvetica Neue", Sans-Serif;
+    margin-top: 230px;
+    margin-left: 10px;
+    margin-right: 70px;
+    width: 200px;
+    font-size: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.pl {
+    height: 60px;
+    padding-right: 20px;
+
+}
+
+.playpause {
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    padding-left: 11px;
+    padding-top: 10px;
+    background-color: rgba(0, 0, 0, 0.16);
+
+    label {
+        display: block;
+        box-sizing: border-box;
+        width: 0;
+        height: 10px;
+        border-color: transparent transparent transparent #202020;
+        transition: 100ms all ease;
+        cursor: pointer;
+        border-style: double;
+        border-width: 0px 0 0px 8px;
+        border-radius: 1px;
+    }
+
+    input[type="checkbox"] {
+        position: absolute;
+        left: -9999px;
+
+        &:checked+label {
+            border-style: solid;
+            border-width: 5px 0 5px 10px;
+        }
+
+        &:focus+label {
+            box-shadow: 0 0 5px lightblue;
+        }
+    }
+}
+
+.track.paused {
+    animation-play-state: paused;
+}
+
+.wr {
+    color: rgba(0, 0, 0, 0.56);
+    background-color: rgb(245, 245, 247);
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.wrs {
+    color: rgba(0, 0, 0, 0.56);
+    background-color: rgb(245, 245, 247);
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+
+}
+
+
+
+#te a {
+    color: rgba(0, 0, 0, 0.72);
+    text-decoration: underline;
+}
+
+#te a:hover {
+    color: rgba(0, 0, 0, 0.72);
+}
+
+#col a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.56);
+}
+
+#col a:hover {
+    text-decoration: underline;
+
+}
+
+#col span {
+    color: rgba(0, 0, 0, 0.72);
+}
+
+.sl {
+    background-color: rgb(245, 245, 247);
+    border-style: none;
+}
+
+
+.toggle-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    /* Ensure the button spans the full width */
+}
+
+.toggle-icon i {
+    margin-left: 20;
+    /* Push the icon to the right */
+
+}
+
+#cn a {
+    color: rgba(0, 0, 0, 0.72);
+}
+
+.lin {
+    width: 1px;
+    height: 13px;
+    background-color: rgba(0, 0, 0, 0.56);
+    margin-top: 2px;
+}
+
+#fo a {
+    color: rgba(0, 0, 0, 0.72);
+}
+
+.my {
+    margin-left: 20px;
+}
+
+#lf a {
+    color: rgba(0, 0, 0, 0.56);
+
+}
+
+#lf a:hover {
+
+    text-decoration: underline;
+}
+
+#lf span {
+    color: black;
+}
+
+.my1 {
+    margin-left: 150px;
+}
+
+#na .modal-body {
+    color: black !important;
+}
+
+#na .active {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#na ul {
+    line-height: 35px;
+}
+
+#na .mml {
+    margin-left: auto;
+    font-weight: 100;
+}
+
+#na .mmb {
+    margin-bottom: 35px;
+}
+
+#na .blinking-input-wrapper {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 40px;
+
+    border-radius: 4px;
+    background-color: white;
+}
+
+#na .blinking-caret {
+    position: absolute;
+    bottom: 0px;
+    left: 48px;
+    width: 2px;
+    height: 40px;
+    background-color: black;
+    animation: blink 1s steps(2, start) infinite;
+    pointer-events: none;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+
+#na input {
+    position: absolute;
+    top: 0;
+    left: 25;
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    padding: 0 10px;
+    color: #333336;
+    font-size: 20px;
+    background-color: transparent;
+}
+
+#na input::placeholder {
+    font-size: 30px;
+    color: rgb(110, 110, 115) !important;
+    /* Adjust size as needed */
+}
+
+#na .mmt {
+    margin-top: 3px;
+}
+
+#na .ho:hover {
+    background-color: rgb(245, 245, 247) !important;
+    color: black !important;
+    text-decoration: none !important;
+}
+
+#exampleModal2 a:hover {
+    text-decoration: none !important;
+}
+
+.ho {
+    padding: 3px;
+    height: 30px;
+    color: black;
+}
+
+.tet {
+    color: grey !important;
+    font-size: 12px;
+    margin-left: 26px;
+}
+
+.modal.fullscreen-modal {
+    top: -100% !important;
+    transform: translateY(0) !important;
+    transition: all 0.5s ease-in-out !important;
+}
+
+.modal.show.fullscreen-modal {
+    top: 0 !important;
+    transform: translateY(0) !important;
+}
+
+.modal-dialog.fullscreen-modal-dialog {
+    height: 100vh !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+}
+
+#na .modal-content.fullscreen-modal-content {
+    height: 100% !important;
+    border: none !important;
+}
+
+.hov {
+    padding: 3px;
+    height: 30px;
+    color: black;
+}
+
+.hov:hover {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+#na .card {
+    padding: 20px !important;
+    border: none;
+}
